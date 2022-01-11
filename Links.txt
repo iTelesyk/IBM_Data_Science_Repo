@@ -1,0 +1,11 @@
+https://cloud.ibm.com/ IBM Cloud Dashboard
+https://dataplatform.cloud.ibm.com/ IBM Cloud Pak for Data
+
+Final Assignment link https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/19abb0bd-ab0e-4167-86f9-492bee1d7744/view?access_token=dc3210b733e2bf6f44d18f2f657b415d721d718764aad250529ee4fca173640a  
+
+Feedback
+Module 4.
+Hands-on Lab: Pandas with IBM Watson Studio - This assignment "Use the following list to convert the dataframe index df to characters and assign it to df_new; find the element corresponding to the row index a and column 'Artist'. Then select the rows a through d for the column 'Artist'". The attribute index of df was not explained in videos or labs. 
+
+
+Quiz and the actual lesson content are inconsistent. Practice Quiz: Pandas Question 2: The df.ix command was not covered in videos or labs
